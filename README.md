@@ -1,4 +1,10 @@
-# Activity: Crack the Many Time Pad
+# Activity: Crack the Many Time Pad (Group 2 PBA Singapore Remote)
+
+* Fazeel Usmani
+* Christopher Altmann
+* Ali Naser
+* Sumeet
+* Ting
 
 > Instructors: there is a **_private guide_** associated with this activity to assist with hints and further details, be sure to review this before starting.
 
